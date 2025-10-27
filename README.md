@@ -1,15 +1,15 @@
-‎# Hi there, I'm [Your Name]! 👋
+‎# Hi there, I'm Daniel Akachukwu Okpe]! 👋
 ‎
 ‎![Banner Image](your_banner_image_url_here)
 ‎
 ‎## About Me 🚀
 ‎
-‎I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+‎I'm a passionate **[Junior /backend Developer Role]** with experience in **[technologies you're proficient in python, nodejs , django, java]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 ‎
-‎- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+‎- 🌱 Currently learning: **[new technologies or skills like using tools on linux operating system]**
 ‎- 🔭 Working on: **[current projects or side-projects]**
 ‎- 🌍 Languages: **[programming languages and human languages you speak]**
-‎- 📫 How to reach me: **[your email address or other contact information]**
+‎- 📫 How to reach me: **[danprestige4real2@gmail.com]**
 ‎- ⚡ Fun fact: **[a fun fact about yourself]**
 ‎
 ‎## My Skills 🧠
